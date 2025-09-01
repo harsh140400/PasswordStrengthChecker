@@ -9,7 +9,9 @@ Contains both lowercase and uppercase letters.
 Includes at least one numeric digit.
 Includes at least one special character (e.g., !@#$%^&*()).
 User-Friendly Design: Clean and simple UI design for ease of use.
+
 Installation
+
 Clone the Repository:
 
 ```bash git clone https://github.com/harsh140400/Passwordstrengthchecker.git
